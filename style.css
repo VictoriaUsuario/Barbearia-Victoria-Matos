@@ -1,5 +1,13 @@
-h1{
-text-align: center;
+#banner{
+  width:100%;
+}
+
+.titulo-principal{
+  padding-left: 20px;
+}
+
+.texto-centralizado{
+  text-align: center;
 }
 
 p{
