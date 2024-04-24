@@ -2,6 +2,11 @@
   width:100%;
 }
 
+.principal{
+  background-color: #CCCCCC;
+  padding:30px;
+}
+
 .titulo-principal{
   padding-left: 20px;
 }
@@ -16,4 +21,15 @@ text-align: center;
 
 #missao {
 font-size: 28px;
+}
+
+ul{
+  display: inline-block;
+  vertical-align: top;
+  width: 25%;
+
+}
+
+.imagem-beneficios {
+  width: 50%;
 }
