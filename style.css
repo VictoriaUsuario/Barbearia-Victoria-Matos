@@ -19,15 +19,28 @@ p{
 text-align: center;
 }
 
+em strong{
+  color: red;
+}
+
 #missao {
 font-size: 28px;
 }
+
+.beneficios{
+  padding: 20px;
+  background: white;
+}
+
 
 ul{
   display: inline-block;
   vertical-align: top;
   width: 25%;
+}
 
+.item{
+  font-style: italic;
 }
 
 .imagem-beneficios {
