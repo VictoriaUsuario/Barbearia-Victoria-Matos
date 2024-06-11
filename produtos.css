@@ -22,6 +22,7 @@ nav li{
   margin-left: 15px;
 }
 
+
 nav a {
   color:#000000;
   text-decoration: none;
@@ -67,6 +68,20 @@ border-radius: 10px;
   margin: 0 1.5%;
   box-sizing: border-box;
   padding: 30px 20px;
+}
+
+
+.produtos li:hover{
+  border-color: #C78C19;
+}
+
+
+.produtos li:hover h2{
+  font-size: 34px;
+}
+
+.produtos li:active{
+  border-color: #088C19;
 }
 
 footer{
