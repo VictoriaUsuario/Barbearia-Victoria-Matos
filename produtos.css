@@ -134,3 +134,19 @@ display: block;
   background: darkorange;
 transform: scale(1.2);
 }
+
+table{
+  margin: 20px 0 10px 0;
+  
+}
+
+thead{
+  background: #555555;
+  color: white;
+font-weight: bold;
+}
+
+th, td {
+  border: 1px solid #555555;
+  padding: 8px 15px;
+}
