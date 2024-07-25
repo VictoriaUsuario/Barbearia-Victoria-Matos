@@ -150,3 +150,53 @@ th, td {
   border: 1px solid #555555;
   padding: 8px 15px;
 }
+
+#banner{
+  width:100%;
+}
+
+.principal{
+  background-color: #CCCCCC;
+  padding:30px;
+}
+
+.titulo-principal{
+  padding-left: 20px;
+  text-align: center;
+}
+
+.texto-centralizado{
+  text-align: center;
+}
+
+p{
+text-align: center;
+}
+
+em strong{
+  color: red;
+}
+
+#missao {
+font-size: 28px;
+}
+
+.beneficios{
+  padding: 20px;
+  background: white;
+}
+
+
+ul{
+  display: inline-block;
+  vertical-align: top;
+  width: 25%;
+}
+
+.item{
+  font-style: italic;
+}
+
+.imagem-beneficios {
+  width: 50%;
+}
