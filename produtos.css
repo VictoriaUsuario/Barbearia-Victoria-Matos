@@ -97,8 +97,8 @@ text-align: center;
 }
 
 main{
-  width: 940px;
-  margin: 0 auto;
+  background: linear-gradient(#fefefe, #888888);
+  
 }
 
 .input-padrao{
@@ -156,9 +156,11 @@ th, td {
 }
 
 .principal{
-  background-color: #FEFEFE;
+  
   padding: 1em 0;
   margin: 0 auto;
+  width: 940px;
+  
 }
 
 .titulo-principal{
@@ -177,7 +179,8 @@ margin: 0 0 1em;
 
 .beneficios{
   padding: 20px;
-  background: white;
+  width: 940px;
+margin: 0 auto;
 }
 
 
